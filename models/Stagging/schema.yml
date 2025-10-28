@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  - name: diag2id
+    description: "Données source du module DIAG2ID (anomalies, dossiers, expertises...)"
+    database: DWH_C1_BD_DEFAULT
+    schema: ER_DIAG2ID
+    tables:
+
+      - name: AFFAIRE_TEMP
+      
