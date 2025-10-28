@@ -8,4 +8,5 @@ sources:
     tables:
 
       - name: AFFAIRE_TEMP
+      - name: DOSSIER_TEMP
       
